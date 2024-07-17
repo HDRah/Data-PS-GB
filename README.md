@@ -8,11 +8,16 @@ The growing demand for electrified heating, electrified transportation, and powe
 *Figure 1 Primary substations (PSs) in Great Britain (GB). The colour represents the ratio (%) of the peak demand to the substation firm capacity.*
 
 # Citation 
-If you are interested and would like to use this dataset. Please cite our paper: 
+If you are interested and would like to use this dataset. Please cite our paper (open access): 
 
-"Datasets of Great Britain Primary Substations Integrated with Household Heating Information ", Yihong Zhou, Chaimaa Essayeh, and Thomas Morstyn, 2024, *submitted to Data in Brief*
-
-It is also abailable on [arXiv](https://arxiv.org/abs/2403.16313).
+Yihong Zhou, Chaimaa Essayeh, Thomas Morstyn,
+Datasets of Great Britain primary substations integrated with household heating information,
+Data in Brief,
+Volume 54,
+2024,
+110483,
+ISSN 2352-3409,
+[https://doi.org/10.1016/j.dib.2024.110483](https://doi.org/10.1016/j.dib.2024.110483)
 
 # File Descriptions 
 A detailed description of the whole dataset can be found in our paper above.
